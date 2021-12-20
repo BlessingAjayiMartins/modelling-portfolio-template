@@ -19,10 +19,10 @@ const Header = () => {
       
       <Stylednav>
         <Link to="/" className="nav-link text-dark">Model Name Here</Link>
-        <Link to="/" class="nav-link">Home</Link>
-        <Link to="/portfolio" class="nav-link">Portfollio</Link>
-        <Link to="/about" class="nav-link" >About</Link>
-        <Link to="/contact" class="nav-link">Contact</Link>
+        <Link to="/" className="nav-link">Home</Link>
+        <Link to="/portfolio" className="nav-link">Portfollio</Link>
+        <Link to="/about" className="nav-link" >About</Link>
+        <Link to="/contact" className="nav-link">Contact</Link>
       </Stylednav>
       
     </Styledheader>
