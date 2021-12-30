@@ -20,7 +20,7 @@ const Header = () => {
       
       <Stylednav className="row justify-content-between">
         <div className="col-3 ">
-          <Link to="/" className="nav-link text-dark col">Blessing Martins</Link>
+          <Link to="/" className="nav-link text-dark">Blessing Martins</Link>
         </div>
         <div className="col-9">
           <div className="row">
